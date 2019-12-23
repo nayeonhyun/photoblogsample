@@ -1,2 +1,2 @@
 # photoblogsample
-This is a sample of a photo blog I designed with HTML and CSS
+This is a clean and simple sample of a photo blog I designed with HTML and CSS
